@@ -1,0 +1,9 @@
+STRING UPDATE table_name
+
+ENTER
+
+STRING SET (col1 = val1, col2 = val2)
+
+ENTER
+
+STRING WHERE condition ;

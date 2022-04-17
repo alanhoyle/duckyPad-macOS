@@ -1,0 +1,5 @@
+
+STRING DELETE FROM table_name
+ENTER
+STRING WHERE condition ;
+ENTER

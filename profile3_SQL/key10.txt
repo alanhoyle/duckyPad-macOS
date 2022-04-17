@@ -1,0 +1,11 @@
+STRING SELECT *
+
+ENTER 
+
+STRING FROM table_name
+
+SPACE
+
+ENTER 
+
+STRING WHERE 1=1 ;

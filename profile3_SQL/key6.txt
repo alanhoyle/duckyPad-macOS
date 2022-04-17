@@ -1,0 +1,1 @@
+STRING JOIN other_table ON condition

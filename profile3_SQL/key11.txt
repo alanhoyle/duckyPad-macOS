@@ -1,0 +1,12 @@
+STRING INSERT INTO table_name
+
+ENTER 
+
+STRING (col1, col2)
+
+ENTER
+
+STRING VALUES
+
+ENTER
+STRING (value1,value2) ;
